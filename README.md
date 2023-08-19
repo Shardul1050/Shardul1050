@@ -1,7 +1,7 @@
 ### Hi there I am Shardul 👋
 
 # 💫 About Me:
-🤝 I’m looking for a Job in Game development<br>🌱 I’m currently learning ** Unity , Cloud Computing **<br>💬 How to reach me : cm.a.51shardul.khadakban@gmail.com<br>⚡ Fun fact about me : I can play football even when I am sick
+🤝 I’m looking for a Job as a Backend Developer<br>🌱 I’m currently learning **Android Studio **<br>💬 How to reach me : cm.a.51shardul.khadakban@gmail.com<br>⚡ Fun fact about me : I can play football even when I am sick
 
 
 ## 🌐 Socials:
